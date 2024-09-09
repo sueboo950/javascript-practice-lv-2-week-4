@@ -14,8 +14,7 @@
 // }
 // console.log('Book Titles:', bookTitles);
 
-// EXAMPLE 2:
-// const exampleCountries = [];
+// EXAMPLE 2: const exampleCountries = [];
 // exampleCountries.push({ name: 'Japan', population: 126476461 });
 // exampleCountries.push({ name: 'Brazil', population: 212559417 });
 // exampleCountries.push({ name: 'Germany', population: 83783942 });
