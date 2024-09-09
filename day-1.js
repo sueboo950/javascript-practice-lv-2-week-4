@@ -186,5 +186,6 @@ function createTask(description, dueDate) {
             this.completed = true;
         }
     };
+}
 // Great job! You've completed the exercises.
 // Feel free to experiment further with the factory functions and loops to create more complex arrays and interactions.

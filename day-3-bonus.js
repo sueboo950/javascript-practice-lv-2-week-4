@@ -79,9 +79,9 @@ products.push({ productName: 'Tablet', price: 600 });
 // Log the resulting string to the console.
 
 const tasks = [];
-tasks.push({ description: 'Complete assignment', dueDate: '2024-08-20' });
-tasks.push({ description: 'Attend meeting', dueDate: '2024-08-21' });
-tasks.push({ description: 'Submit report', dueDate: '2024-08-22' });
+tasks.push({ description: 'choir practice', dueDate: '2024-08-20' });
+tasks.push({ description: 'pick up kids', dueDate: '2024-08-21' });
+tasks.push({ description: 'completed homework', dueDate: '2024-08-22' });
 
 // TODO: Write your code here to aggregate the task descriptions from the `tasks` array using `reduce`.
 
