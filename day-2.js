@@ -123,7 +123,7 @@ for (let i = 0; i < state.recentTemperatures.length; i++){
 
 // TODO: Now, you try adding your own hobbies to the `state` object and logging them to the console!
 
-state.skills = ['sing', 'Preach', 'Dance', 'counceling'];
+state.skills = ['sing', 'Preach', 'Dance', 'counseling'];
 console.log('state:', state);
 console.table(state.skills);
 for (let i = 0; i < state.skills.length; i ++){
